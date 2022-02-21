@@ -19,3 +19,5 @@ Genomgång av higher order functions: https://www.freecodecamp.org/news/a-quick-
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/EizKbeTWuxFHjKiYo9T3fCQBZf5BLjh-IOAxkSkMmHe8EA?e=qJ7C4q
